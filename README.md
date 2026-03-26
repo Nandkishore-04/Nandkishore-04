@@ -2,7 +2,7 @@
 
 Started as a curious CS student, now I build AI-powered tools, automate business workflows, and contribute to open source. I believe the best way to learn is to ship.
 
-🌐 [nandkishore.dev](https://nandkishore.dev) · 📫 [nkk01414@gmail.com](mailto:nkk01414@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nand-kishore-8b9093262/)
+🌐 [nandkishore.dev](https://nandkishore.dev) 
 
 ---
 
@@ -61,6 +61,7 @@ Started as a curious CS student, now I build AI-powered tools, automate business
 <p align="left">
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/></a>&nbsp;
   <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="36" height="36"/></a>&nbsp;
+  <a href="https://n8n.io"><img src="https://avatars.githubusercontent.com/u/45487711?s=36" alt="n8n" width="36" height="36"/></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>&nbsp;
   <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/></a>&nbsp;
   <a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="36" height="36"/></a>
