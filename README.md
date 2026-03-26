@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nand kishore</h1>
-<h3 align="center">An aspiring full stack developer and an Computer Science student specializing in Artificial Intelligence and Data Science</h3>
+<h3 align="center">An aspiring AI & ML and an Computer Science student specializing in Artificial Intelligence and Data Science</h3>
 
 - 🔭 I’m currently working on **AI powered Inventory Management**
 
