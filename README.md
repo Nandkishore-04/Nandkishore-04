@@ -70,6 +70,3 @@ I'm open to freelance projects, collaborations, and interesting AI/automation pr
 
 📫 **[nkk01414@gmail.com](mailto:nkk01414@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/nand-kishore-8b9093262/)
 
----
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandkishore-04&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FFD60A&text_color=ffffff" alt="nandkishore-04" /></p>
