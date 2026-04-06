@@ -10,12 +10,7 @@ Started as a curious CS student, now I build AI-powered tools, automate business
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| **AI-Powered Inventory Management** | AI chat assistant + OCR invoice processing + real-time stock monitoring | Next.js, FastAPI, PostgreSQL, TensorFlow | 🚧 In Progress |
-| **Insurance Policy Manager** | Offline-first desktop app replacing Excel for a local insurance agent | Electron, React, SQLite | ✅ Shipped |
-| **Automated Admin Dashboard** | Client lifecycle tracking with automated emails via n8n | Next.js, Supabase, n8n | ✅ Shipped |
-| **Simply Search** | Millisecond product search replacing Excel spreadsheets | React, Node.js, PostgreSQL | ✅ Shipped |
-
-
+| **IPL-2026 Winner Predictor** |Production-grade ML system with leakage-safe feature engineering, XI-based player strength modeling, and live win probability engine (58.6% pre-match accuracy, 0.89 AUC live model)| Python, Scikit-learn, FastAPI, React | 🚧 In Progress |
 
 ---
 
