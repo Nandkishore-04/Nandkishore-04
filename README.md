@@ -1,6 +1,6 @@
 # Hey, I'm Nand Kishore 👋
 
-Started as a curious CS student, now I build AI-powered applications, workflow automation systems, and developer tools while contributing to open source. My interests span AI infrastructure, document intelligence, backend engineering, and systems programming.
+Started as a curious CS student, I build AI-powered applications, workflow automation systems, and developer tools while contributing to open source. My interests span AI infrastructure, document intelligence, backend engineering, and systems programming.
 
 🎓 **Google Summer of Code 2026 Contributor**
 
